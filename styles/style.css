@@ -35,7 +35,7 @@ body {
 (flex-direcyion */
 
 .banner {
-    background-image: url("Assets/Hero-bg.png");
+    background-image: url("../Assets/Hero-bg.png");
     background-position: center;
     min-height: 100vh;
     display: flex;
